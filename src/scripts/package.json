@@ -1,0 +1,17 @@
+{
+  "name": "nft-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.1.4",
+    "ipfs-js": "0.0.11",
+    "it-to-buffer": "^2.0.0",
+    "nft.storage": "^0.4.1"
+  }
+}
